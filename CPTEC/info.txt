@@ -1,0 +1,4 @@
+Banco de dados meteorológicos retirados do site do sistema CPTEC-INPE
+http://sinda.crn.inpe.br/PCD/SITE/novo/site/historico/index.php
+Selecionar "31949-MS-Corumbá"
+Baixar ano a ano (limite máximo deste site)
